@@ -1,0 +1,25 @@
+
+ @font-face {
+  font-family:  "Bungee Spice";
+  src: url(./../fonts/Bungee_Spice/BungeeSpice-Regular.ttf) format("treutype");
+  font-weight: ;
+ }
+
+
+
+
+ @font-face {
+  font-family: "Spline Sans Mono";
+  src: url(./../fonts/Spline_Sans_Mono/SplineSansMono-Italic-VariableFont_wght.ttf) format("treutype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+
+ @font-face {
+  font-family: "Spline Sans Mono";
+  src: url(./../fonts/Spline_Sans_Mono/static/SplineSansMono-Italic.ttf) format("treutype");
+  font-weight: 700;
+}
+
+
