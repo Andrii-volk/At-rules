@@ -1,0 +1,10 @@
+h2 {
+font-family:"Spline Sans Mono", monospace ;
+font-style: italic;
+}
+
+h1{
+  background-color: brown;
+  color: azure;
+  font-family: "Bungee Spice", sans-serif;
+}
