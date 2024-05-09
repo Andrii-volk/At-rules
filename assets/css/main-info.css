@@ -1,11 +1,28 @@
-.main-info> h2{
+.main-info > h2 {
   color: tomato;
-  font-family:"Spline Sans Mono" ;
+  font-family: "Spline Sans Mono";
+  border-bottom: none;
+   border-bottom: 5px dotted teal;
 }
-@media print{ 
-  .main-info> h2{
-  color: black;
-  font-family:"Spline Sans Mono" ;
-  border: 2px solid black;
+/* @media screen and (max-width: 576px) {
+  .main-info > h2 {
+    border-bottom: 5px dotted teal;
+  }
+} */
+@media screen and (min-width: 576px)  {
+  .main-info > h2 {
+    border-top: 5px dotted teal;
+  }
 }
+
+@media screen and (max-width: 768px) {
+  .main-info > h2 {
+    border-right: 5px dotted teal;
+  }
 }
+
+/* (320 : 576) Extra small
+[576 : 768) small
+[768 : 992) Medium
+[992 : 1200) large 
+[1200 : infinity) */

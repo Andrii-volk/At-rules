@@ -1,7 +1,7 @@
 
 @import "./reset.css";
 @import "./fonts.css";
-@import "./main-info.css";
+@import "./main-info.css" ;  
 
 
 
@@ -9,5 +9,4 @@
 :root{
   font-size: 30px;
 }
-h2{color: teal;}
 
