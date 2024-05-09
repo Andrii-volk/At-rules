@@ -1,0 +1,11 @@
+.main-info> h2{
+  color: tomato;
+  font-family:"Spline Sans Mono" ;
+}
+@media print{ 
+  .main-info> h2{
+  color: black;
+  font-family:"Spline Sans Mono" ;
+  border: 2px solid black;
+}
+}
