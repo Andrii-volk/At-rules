@@ -1,12 +1,11 @@
-
 @import "./reset.css";
 @import "./fonts.css";
-@import "./main-info.css" ;  
+@import "./main-info.css";
+@import "./user-card.css";
 
-
-
-
-:root{
+:root {
   font-size: 30px;
 }
-
+*{
+  box-sizing: border-box;
+}
